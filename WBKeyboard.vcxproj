@@ -22,7 +22,7 @@
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{570f549e-1607-41dd-96cf-2785cb0885c1}</ProjectGuid>
-    <RootNamespace>WBKeyboardReborn</RootNamespace>
+    <RootNamespace>WMKeyboard</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>WMKeyboard</ProjectName>
   </PropertyGroup>
