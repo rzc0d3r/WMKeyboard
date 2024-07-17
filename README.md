@@ -52,3 +52,5 @@ WMKeyboard - Turn your keyboard into a sound synthesizer
    Type in ```xcopy /Y /I "$(SolutionDir)dll\x32\bass.dll" "$(TargetDir)"``` - for **Win32 Configuration**
    
    Type in ```xcopy /Y /I "$(SolutionDir)dll\x64\bass.dll" "$(TargetDir)"``` - for **Win64 Configuration**
+
+## The project was created on Visual Studio 2022 (17.10.4)
