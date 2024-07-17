@@ -46,11 +46,15 @@ WMKeyboard - Turn your keyboard into a sound synthesizer
    6. **That's all!**
 </details>
 
+---
+
 # Useful information
 1. To avoid constantly copying **bass.dll** to **.exe**, you can automate this process by using the settings in the properties:
    ### Properties -> Build Events -> Post-Build Event -> Command Line
    Type in ```xcopy /Y /I "$(SolutionDir)dll\x32\bass.dll" "$(TargetDir)"``` - for **Win32 Configuration**
    
    Type in ```xcopy /Y /I "$(SolutionDir)dll\x64\bass.dll" "$(TargetDir)"``` - for **Win64 Configuration**
+
+---
 
 ## The project was created on Visual Studio 2022 (17.10.4)
